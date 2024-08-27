@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        // Michael Steeven Sanchez
+        // Calculadora de funciones basicas como suma, resta, multiplicación y division
+        // 27/08/2024
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Bienvenido a la Calculadora...");
